@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c" width="1000"  >
+<img src="https://github.com/Amresh2004/Amresh2004/blob/main/github-banner.png/github-header-image.png?raw=true" weight="500">
 <h1 align="center">Hi 👋, I'm Amresh Warad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
