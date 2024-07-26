@@ -1,4 +1,4 @@
-<img src="https://github.com/Amresh2004/Amresh2004/blob/main/github-banner.png/github-header-image.png?raw=true" weight="700" height="400px">
+<img src="https://github.com/Amresh2004/Amresh2004/blob/main/github-banner.png/github-header-image.png?raw=true" weight="700" height="350px">
 <h1 align="center">Hi 👋, I'm Amresh Warad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
